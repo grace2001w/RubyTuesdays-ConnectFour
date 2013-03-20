@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+# new line to remove later
 gem 'rails', '~> 3.2.11'
 
 # SQLite
